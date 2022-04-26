@@ -9,7 +9,7 @@ Once Helm has been set up correctly, add the repo as follows:
 
 If you had already added this repo earlier, run `helm repo update` to retrieve
 the latest versions of the packages.  You can then run `helm search repo
-masterrrp` to see the charts.
+auto-deploy-app` to see the charts.
 
 To install the auto-deploy-app chart:
 
